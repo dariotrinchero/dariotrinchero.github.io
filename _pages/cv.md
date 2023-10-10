@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in Theoretical Physics, Stellenbosch University, 2019
+* BScHons. in Mathematics, Stellenbosch University, 2020
+* MSc. in Theoreical Physics, Stellenbosch University, 2022
+* Ph.D in Mathematical Physics, Stellenbosch University, 2025 (expected)
 
 Work experience
 ======
