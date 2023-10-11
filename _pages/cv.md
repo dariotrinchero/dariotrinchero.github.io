@@ -17,29 +17,21 @@ bottom of this page).
 
 * BSc. in Theoretical Physics, Stellenbosch University, 2019
 * BScHons. in Mathematics, Stellenbosch University, 2020
-* MSc. in Theoreical Physics, Stellenbosch University, 2022
+* MSc. in Theoretical Physics, Stellenbosch University, 2022
 * Ph.D in Mathematical Physics, Stellenbosch University, 2025 (expected)
 
 ## Work experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb 2018 - present: Mathematics learning assistant (see '**Teaching**' below)
+  * Stellenbosch University
+  * Duties: tutoring, invigilating & marking tests, & lecturing *ad hoc*
+  * Subjects: linear algebra, calculus, analysis, algebra, Fredholm theory
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-## Skills
+* Summer 2019 & 2020: Software development engineer intern
+  * Amazon Web Services
+  * Projects: Elastic Compute Cloud (EC2)
+  * I worked in two teams, developing internal tooling
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 ## Publications
 
@@ -58,12 +50,32 @@ bottom of this page).
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 ## Service and leadership
 
-* Currently signed in to 43 different slack teams
+* TODO
 
-</br>
+## Skills
+
+* Mathematics / physics
+  * Quantum field theory
+  * Geometry & topology
+  * Lie theory
+* Programming
+  * Python
+  * Java
+  * C / C++
+  * x86 Assembly
+  * MATLAB / Octave
+  * Web frameworks
+* Soft skills
+  * Teaching
+  * Public speaking
+  * Debating
+* Writing
+
+<br>
+
 ---
 
 # Unabridged CV
