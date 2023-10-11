@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,15 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+What follows is an **abridged** version of my CV.
+My **complete** CV is [available in PDF format here](/files/cv.pdf) (also embedded at the
+bottom of this page).
+
+## Education
+
 * BSc. in Theoretical Physics, Stellenbosch University, 2019
 * BScHons. in Mathematics, Stellenbosch University, 2020
 * MSc. in Theoreical Physics, Stellenbosch University, 2022
 * Ph.D in Mathematical Physics, Stellenbosch University, 2025 (expected)
 
-Work experience
-======
+## Work experience
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -28,8 +32,8 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
+## Skills
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -37,24 +41,35 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+## Service and leadership
+
 * Currently signed in to 43 different slack teams
+
+</br>
+---
+
+# Unabridged CV
+
+What follows is my **complete** CV in PDF format, which can also be found at [this
+link](/files/cv.pdf), as well as featured on my
+[LinkedIn page](https://www.linkedin.com/in/dariotrinchero/).
+
+<object data="/files/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
