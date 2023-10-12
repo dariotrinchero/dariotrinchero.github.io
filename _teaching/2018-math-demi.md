@@ -31,10 +31,10 @@ each module.
 | --------------- | ----------- | --------------------------- | ------------- | -------------------------------------------------------------------- |
 | Math 114        | First year  | Calculus, basic logic       | 2018          | Live tutoring: large groups, in team                                 |
 | Math 144        | First year  | Calculus, linear algebra    | 2018          | Live tutoring: large groups, in team                                 |
-| Math 214        | Second year | Calculus, linear algebra    | 2018-**2023** | Live & online tutoring: large & small groups, solo; marking          |
-| Math 244        | Second year | Calculus, linear algebra    | 2018-**2023** | Live & online tutoring: large & small groups, solo; ad hoc lecturing |
+| Math 214        | Second year | Calculus, linear algebra    | 2018-2023     | Live & online tutoring: large & small groups, solo; marking          |
+| Math 244        | Second year | Calculus, linear algebra    | 2018-2023     | Live & online tutoring: large & small groups, solo; ad hoc lecturing |
 | Math 378        | Third year  | Fredholm theory             | 2020          | Online tutoring: individuals, solo                                   |
-| Algebra 314     | Third year  | Ring & group theory         | 2021-**2023** | Live tutoring: large groups, solo                                    |
+| Algebra 314     | Third year  | Ring & group theory         | 2021-2023     | Live tutoring: large groups, solo                                    |
 
 ### Explanation of module levels
 
@@ -49,3 +49,11 @@ convention. Here is a handy translation table:
 | Junior             | Third year                    |
 | Senior             | Honours                       |
 
+## Online tutoring
+
+My style of online tutoring mainly involves going through problems live, writing notes via
+a Wacom tablet. Here is a [typical example](/files/tut4.pdf) of the resulting notes. While
+it began because of Covid-19, I embrace the online format - my tutorials were recorded,
+and supplemented with live online quizzes, feedback forms, and occasionally even
+[live code examples](/files/tut7_notebook.ipynb). Students consistently valued being able to
+revisit notes and/or recordings of sessions.
