@@ -35,14 +35,14 @@ further proof or verification.
 ## My background
 
 I have a mixed background in pure mathematics and physics. I completed a bachelors in
-physics, Honours in mathematics, Masters in physics, and am working on my PhD in
+physics, Honours in mathematics, Master's in physics, and am working on my PhD in
 mathematics.
 
-My [Masters thesis](https://doi.org/10019.1/126944) investigated a natural
+My [Master's thesis](https://doi.org/10019.1/126944) investigated a natural
 quantum-to-classical transition arising (by the mechanism of decoherence) in the 3D
 fuzzy-sphere model of quantum mechanics on a spacetime with non-commutative geometry.
 I published [this paper](/publications/2023-03-01-pinhole) about my results. During my
-Masters years, I also took courses on general relativity, quantum computing, and
+Master's years, I also took courses on general relativity, quantum computing, and
 solid-state physics.
 
 My [Honours mini-thesis](https://zenodo.org/record/8414171) was an expository account
