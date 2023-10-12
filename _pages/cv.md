@@ -20,6 +20,8 @@ bottom of this page).
 * MSc. in Theoretical Physics, Stellenbosch University, 2022
 * Ph.D in Mathematical Physics, Stellenbosch University, 2025 (expected)
 
+My academic transcript can be viewed [here](/files/transcript.pdf).
+
 ## Work experience
 
 * Feb 2018 - present: Mathematics learning assistant (see '**Teaching**' below)
@@ -61,18 +63,14 @@ bottom of this page).
   * Quantum field theory
   * Geometry & topology
   * Lie theory
-* Programming
-  * Python
-  * Java
-  * C / C++
-  * x86 Assembly
-  * MATLAB / Octave
-  * Web frameworks
+* Computer science
+  * Algorithms
+  * Programming: Python, Java, C / C++, x86 Assembly, MATLAB / Octave, Web frameworks, etc.
 * Soft skills
   * Teaching
+  * Writing
   * Public speaking
   * Debating
-* Writing
 
 <br>
 
