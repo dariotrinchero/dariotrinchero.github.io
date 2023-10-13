@@ -17,7 +17,7 @@ Bartlett](https://math.sun.ac.za/bbartlett/)), with a few guests.
 ## Overview
 
 Our goal is to introduce quantum groups assuming little background, showing a
-few examples, but focussing mainly on the perspective that quantum groups give rise to
+few examples, but focusing mainly on the perspective that quantum groups give rise to
 link invariants through their representation category.
 
 The presentation is far from exhaustive - this topic is vast, and a thorough treatment
