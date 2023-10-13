@@ -10,14 +10,21 @@ redirect_from:
 {% include base_path %}
 
 Below is embedded my complete CV in PDF format. If it does not render correctly, it can
-also be directly accessed [here](/files/cv.pdf), or on my
+also be directly accessed
+[here](https://github.com/dariotrinchero/cv/releases/download/latest/cv.pdf), or on my
 [LinkedIn page](https://www.linkedin.com/in/dariotrinchero/).
 
-<object data="/files/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object
+	data="/files/cv.pdf#zoom=85"
+	width="1000" height="1000"
+	type='application/pdf'
+>
+	Unable to display embedded PDF. Please use one of the download links above.
+</object>
 
 For even more details, you can also check out individual write-ups of each of my
-[publications](/publications/), [talks](/talks/), [teaching experiences](/teaching/),
-and so on, via the other pages on this website.
+[publications](/publications/), [talks](/talks/), and [teaching experiences](/teaching/)
+via the other pages on this website.
 
 <!--- 
 What follows is an **abridged** version of my CV.
