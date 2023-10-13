@@ -23,8 +23,8 @@ link invariants through their representation category.
 The presentation is far from exhaustive - this topic is vast, and a thorough treatment
 requires little short of an entire textbook. That said, my notes include references (in
 pink) for each section, which should help an interested reader dive deeper. Notable
-omissions are the Drinfeld quantum double, the construction of quantum sl(2), and
-proofs of several assertions.
+omissions are the Drinfeld quantum double, the construction of quantum $\mathfrak{sl}(2)$,
+and proofs of several assertions.
 
 ## Breakdown of talks
 

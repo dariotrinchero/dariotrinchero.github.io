@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Below is embedded my complete CV in PDF format. If it does not render correctly, it can
-also be directly accessed [here](/files/cv.pdf){: .btn}, or on my
+also be directly accessed [here](/files/cv.pdf), or on my
 [LinkedIn page](https://www.linkedin.com/in/dariotrinchero/).
 
 <object data="/files/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
