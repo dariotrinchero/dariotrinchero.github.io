@@ -14,6 +14,10 @@ location: "Cape Town, South Africa"
 Brief introductory seminar series presented to my research group (led by [Bruce
 Bartlett](https://math.sun.ac.za/bbartlett/)), with a few guests.
 
+<center>
+<img src="/images/file_previews/quantgrps.png" width="77%">
+</center>
+
 ## Overview
 
 Our goal is to introduce quantum groups assuming little background, showing a
