@@ -13,7 +13,7 @@ University](https://www.sun.ac.za/english) under the guidance of
 [Bruce Bartlett](https://math.sun.ac.za/bbartlett/).
 My research focusses on topological quantum field theory (TQFT).
 
-## My current research
+## My current research {#research}
 
 In Chern-Simons theory, as in any TQFT, one must associate to each surface a corresponding
 vector space[^tqft]. Historically, there have been two rather distinct approaches to
