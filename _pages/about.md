@@ -11,20 +11,20 @@ redirect_from:
 Hi, I'm Dario. I'm a student of mathematical physics, working on my PhD at [Stellenbosch
 University](https://www.sun.ac.za/english) under the guidance of
 [Bruce Bartlett](https://math.sun.ac.za/bbartlett/).
-My research focusses on topological quantum field theory.
+My research focusses on topological quantum field theory (TQFT).
 
 ## My current research
 
 In Chern-Simons theory, as in any TQFT, one must associate to each surface a corresponding
-vector space. Historically, there have been two rather distinct approaches to formulating
-this vector space in Chern-Simons theory.
+vector space[^tqft]. Historically, there have been two rather distinct approaches to
+formulating this vector space in Chern-Simons theory.
 
 On the one hand, this space can be constructed by the usual machinery of *geometric
 quantization* - as a space of *holomorphic sections* of a certain line bundle living over
-the moduli space of flat SU(2) connections on the surface. On the other hand, the space
-can be considered a space of *skeins* - linear combinations of diagrams drawn inside the
-3-dimensional handlebody bounded by our surface, modulo certain local 'skein relations'
-that hold inside each embedded ball.
+the moduli space of flat $\mathrm{SU}(2)$ connections on the surface[^andersen2019].
+On the other hand, the space can be considered a space of *skeins* - linear combinations
+of diagrams drawn inside the 3-dimensional handlebody bounded by our surface, modulo
+certain local 'skein relations' that hold inside each embedded ball[^blanchet1995].
 
 My current PhD work is focussed on writing down a new basis-free isomorphism between the
 holomorphic section and skein spaces, essentially providing another (simpler) answer to
@@ -35,8 +35,8 @@ further proof or verification.
 ## My background
 
 I have a mixed background in pure mathematics and physics. I completed a bachelors in
-physics, Honours in mathematics, Master's in physics, and am working on my PhD in
-mathematics.
+physics, Honours in mathematics[^hons], Master's in physics, and am working on my PhD
+in mathematics.
 
 My [Master's thesis](https://doi.org/10019.1/126944) investigated a natural
 quantum-to-classical transition arising (by the mechanism of decoherence) in the 3D
@@ -53,7 +53,27 @@ theory, statistical physics, and C\*-algebras.
 
 ## My research interests
 
-In general, I am interested in most topics in mathematical physics, low-dimensional
-topology, and differential geometry. More specifically, I am especially interested in
-non-commutative geometry, topological quantum field theory, and graphical calculi. I am
-open to collaborate on these and other topics.
+I am generally interested in most topics in mathematical physics, low-dimensional
+topology, and differential geometry, especially non-commutative geometry,
+topological quantum field theory, and applications of graphical calculi. I want to
+learn more about higher categories, homological algebra, and Morse-Cerf theory.
+
+I am open (and eager) to collaborate on these and other topics. Please feel free to
+[reach out!](/contact/)
+
+<hr>
+
+[^tqft]: By TQFT, I mean in the sense of
+	[Atiyah (1990)](https://doi.org/10.1017/CBO9780511623868) - that is, a certain functor
+	from the cobordism category to the category of vector spaces.
+
+[^hons]: Some South African university faculties separate the fourth year of undergraduate
+	(the 'senior' year, in US terminology) into an optional 'Honours' degree.
+
+[^andersen2019]: Jørgen Andersen and William Petersen. Asymptotic expansions of the
+	Witten–Reshetikhin–Turaev invariants of mapping tori I. *Transactions of
+	the American Mathematical Society*, 372(8):5713–5745, 2019.
+
+[^blanchet1995]: Christian Blanchet, Nathan Habegger, Gregor Masbaum, and Pierre Vogel.
+	Topological quantum field theories derived from the Kauffman bracket.
+	*Topology*, 34(4):883–927, 1995.

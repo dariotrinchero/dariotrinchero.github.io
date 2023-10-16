@@ -10,9 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Below is embedded my complete CV in PDF format. If it does not render correctly, it can
-also be directly accessed
-[here](https://github.com/dariotrinchero/cv/releases/download/latest/cv.pdf), or on my
-[LinkedIn page](https://www.linkedin.com/in/dariotrinchero/).
+also be directly accessed [here](/files/cv.pdf).
 
 <object
 	data="/files/cv.pdf#zoom=85"
@@ -28,8 +26,7 @@ via the other pages on this website.
 
 <!--- 
 What follows is an **abridged** version of my CV.
-My **complete** CV is [available in PDF format here](/files/cv.pdf) (also embedded at the
-bottom of this page).
+My **complete** CV is [available in PDF format here](/files/cv.pdf).
 
 ## Education
 
@@ -89,16 +86,4 @@ My academic transcript can be viewed [here](/files/transcript.pdf).
   * Writing
   * Public speaking
   * Debating
-
-<br>
-
----
-
-# Unabridged CV
-
-What follows is my **complete** CV in PDF format, which can also be found at [this
-link](/files/cv.pdf), as well as featured on my
-[LinkedIn page](https://www.linkedin.com/in/dariotrinchero/).
-
-<object data="/files/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
 --->
