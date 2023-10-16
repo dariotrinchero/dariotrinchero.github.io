@@ -43,3 +43,16 @@ and proofs of several assertions.
 3. 13/10/2023
 : [Notes](/files/qg3.pdf)
 : We revise graphical calculi for various kinds of category, connect various kinds of Hopf algebra (braided, ribbon, etc) with their categories of representations, & finally show how ribbon Hopf algebras produce the Reshetikhin-Turaev link invariant
+
+## Related references
+
+Quantum groups give a framework in which one can formulate the theory of *theta
+functions*. Indeed, one of our main references, [Gelca](https://doi.org/10.1142/8872),
+introduces quantum groups for exactly this purpose. Because of this connection, the
+material of these talks can be directly linked with my talk on [theta functions and
+knots](/talks/2023-10-27-theta)[^gelca].
+
+---
+
+[^gelca]: See sections 8.2-8.3 of [Gelca](https://doi.org/10.1142/8872) for the details.
+	Indeed, Gelca was a main reference for my theta functions talk also.
