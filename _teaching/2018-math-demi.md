@@ -11,6 +11,10 @@ location: "Cape Town, South Africa"
 From February 2018 to present, I have worked as a teaching & learning assistant for various
 undergraduate mathematics modules at Stellenbosch University.
 
+<center>
+<img src="/images/file_previews/tutoring.png" width="77%">
+</center>
+
 ## My philosophy on tutoring
 
 For all of my tutoring career (bar a short stint in 2017), I have been employed by my
@@ -52,8 +56,8 @@ convention. Here is a handy translation table:
 ## Online tutoring
 
 My style of online tutoring mainly involves going through problems live, writing notes via
-a Wacom tablet. Here is a [typical example](/files/tut4.pdf) of the resulting notes. While
-it began because of Covid-19, I embrace the online format - my tutorials were recorded,
-and supplemented with live online quizzes, feedback forms, and occasionally even
-[live code examples](/files/tut7_notebook.ipynb). Students consistently valued being able to
-revisit notes and/or recordings of sessions.
+a Wacom tablet. [Here are](/files/tut8.pdf) some [typical examples](/files/tut4.pdf) of the
+[resulting notes](/files/tut5.pdf). While it began because of Covid-19, I embrace the online
+format - my tutorials were recorded, and supplemented with live online quizzes, feedback forms,
+and occasionally even [live code examples](/files/tut7_notebook.ipynb). Students consistently
+valued being able to revisit notes and/or recordings of sessions.
