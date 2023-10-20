@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Extra Bits"
+permalink: /extras/
+author_profile: true
+---
+
+{% include base_path %}
+
+Here you will find things I have made that don't fall into the other categories of
+'publications', 'talks', or 'teaching'.
+
+{% for post in site.extras %}
+  {% include archive-single.html %}
+{% endfor %}
+
