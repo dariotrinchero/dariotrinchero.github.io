@@ -3,14 +3,22 @@ title: "Introduction to quantum groups"
 collection: talks
 type: "Seminar"
 permalink: /talks/2023-10-12-quantgrps
+excerpt: '
+**Notes:** [Zenodo](https://zenodo.org/records/10000347) /
+local [talk 1](/files/qg1.pdf), [talk 2](/files/qg2.pdf), [talk 3](/files/qg3.pdf),
+**Recordings:** [Zenodo](https://zenodo.org/records/10000347)
+'
 venue: "Stellenbosch University"
 date: 2023-10-12
 location: "Cape Town, South Africa"
 ---
 
+> <span style='font-size: 13pt; font-style: normal'>
 **Notes:** [Zenodo](https://zenodo.org/records/10000347) /
 local [talk 1](/files/qg1.pdf), [talk 2](/files/qg2.pdf), [talk 3](/files/qg3.pdf),
 **Recordings:** [Zenodo](https://zenodo.org/records/10000347)
+</span>
+{:.notice--info}
 
 Brief introductory seminar series presented to my research group (led by [Bruce
 Bartlett](https://math.sun.ac.za/bbartlett/)), with a few guests.
