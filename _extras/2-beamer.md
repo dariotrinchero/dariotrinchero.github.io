@@ -1,16 +1,18 @@
 ---
 title: "Beamer template"
+permalink: /extras/beamer/
 excerpt: "The template & theme I made for presentations using LaTeX + beamer:
-  <br><img
-    src='https://github.com/dariotrinchero/beamer/releases/download/latest/presentation-1.jpg'
-	width='500'
+  <br><a href='/extras/beamer/'><img
+    src='/images/beamer.jpg'
+	width='450'
 	style='border: 1px solid #CCC; margin-top: 0.5em'
-  >"
+  ></a>"
 collection: extras
 ---
 
-**Download**: get the latest version of the template from my
-[GitHub repo](https://github.com/dariotrinchero/beamer)
+> <span style='font-size: 13pt; font-style: normal'>
+**Download**: [GitHub repo](https://github.com/dariotrinchero/beamer)
+</span>
 {:.notice--info}
 
 ## Overview
@@ -24,10 +26,10 @@ including:
 - bibliography management & automatic citations, and
 - separation between content/structure and styling (for the most part).
 
-The main issue with Beamer is that it looks *hideous*. Here's a title slide with default
-styling:
+The main issue with Beamer is that it looks a little dated. Here's a title slide with **default
+styling**:
 
-<img src='/images/beamer.png' width="600" style='border: 1px solid #CCC'>
+<img src='/images/beamer_default.png' width="450" style='border: 1px solid #CCC'>
 
 As such, one of the very first things I did when starting out in Beamer (back in 2018) was
 to make [my own theme](https://github.com/dariotrinchero/beamer) from scratch, which I have
@@ -35,13 +37,13 @@ been using (and steadily updating) ever since.
 
 ## Main features
 
-Aside from not looking like trash, here are some bonus nice things [my
+Aside from looking a bit cleaner and more modern, here are some bonus nice things [my
 theme](https://github.com/dariotrinchero/beamer) does:
 
 - define a color palette,
 - define some custom commands for emphasizing & coloring text,
 - automatically insert full-screen section title slides (with optional graphic), and
-- render a segmented wheel to indicate progress through slides
+- render a segmented wheel to indicate progress through slides.
 
 ## Screenshots
 
@@ -52,11 +54,12 @@ above:
 <img src='https://github.com/dariotrinchero/beamer/releases/download/latest/presentation-3.jpg' width="80%" style='border: 1px solid #CCC; margin-top: 0.5em'>
 <img src='https://github.com/dariotrinchero/beamer/releases/download/latest/presentation-5.jpg' width="80%" style='border: 1px solid #CCC; margin-top: 0.5em'>
 
-## Download
+## Using my template
 
-Like what you see? Please
-[download](https://github.com/dariotrinchero/beamer){:.btn}
-and use the template! Feedback and/or pull requests are encouraged!
+If you like my design, please feel free to
+[download](https://github.com/dariotrinchero/beamer)
+and use the template! You are welcome to modify / adapt it however you like to suit your
+needs. Feedback and/or pull requests are also strongly encouraged!
 
 ## Disclaimer
 
