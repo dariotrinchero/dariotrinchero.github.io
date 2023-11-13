@@ -53,6 +53,12 @@ theory, statistical physics, and C\*-algebras.
 
 ## My research interests
 
+> <span style='font-size: 13pt; font-style: normal'>
+**[Subject](https://en.wikipedia.org/wiki/Mathematics_Subject_Classification) codes:**
+57K16, 57R56, 81T45, 81R60, 81P05, 81S22, 53D50, 57K31, 14D21, 18M30
+</span>
+{:.notice--warning}
+
 I am generally interested in most topics in mathematical physics, low-dimensional
 topology, and differential geometry, especially non-commutative geometry,
 topological quantum field theory, and applications of graphical calculi. I want to
