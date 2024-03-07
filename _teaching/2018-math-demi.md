@@ -8,7 +8,7 @@ date: 2018-02-01
 location: "Cape Town, South Africa"
 ---
 
-From February 2018 to present, I have worked as a teaching & learning assistant for various
+From 2018 to 2023 (inclusive), I worked as a teaching & learning assistant for various
 undergraduate mathematics modules at Stellenbosch University.
 
 <center>
