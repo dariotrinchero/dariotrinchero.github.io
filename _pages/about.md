@@ -38,7 +38,7 @@ I have a mixed background in pure mathematics and physics. I completed a bachelo
 physics, Honours in mathematics[^hons], Master's in physics, and am working on my PhD
 in mathematics.
 
-My [Master's thesis](https://doi.org/10019.1/126944) investigated a natural
+My [Master's thesis](/files/msc_thesis.pdf) investigated a natural
 quantum-to-classical transition arising (by the mechanism of decoherence) in the 3D
 fuzzy-sphere model of quantum mechanics on a spacetime with non-commutative geometry.
 I published [this paper](/publications/2023-03-01-pinhole) about my results. During my
