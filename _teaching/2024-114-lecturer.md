@@ -1,5 +1,5 @@
 ---
-title: "Contract lecturer"
+title: "Junior lecturer"
 collection: teaching
 type: "First-year mathematics"
 permalink: /teaching/2024-114-lecturer
