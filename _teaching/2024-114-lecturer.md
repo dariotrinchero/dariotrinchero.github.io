@@ -1,5 +1,5 @@
 ---
-title: "Contract lecturer"
+title: "Junior lecturer"
 collection: teaching
 type: "First-year mathematics"
 permalink: /teaching/2024-114-lecturer
@@ -19,7 +19,7 @@ covering mainly precalculus and calculus. I taught a class of approximately 220 
 
 - Teaching classes (5h of lectures each week)
 - Compiling tutorials & memoranda
-- Contributing assessment questions
+- Compiling & marking exams
 - Corresponding & meeting with students as needed
 
 ## My feedback
@@ -30,7 +30,7 @@ usually pertaining to the pace of the module, my vocabulary being inaccessible, 
 tendency to speak too quickly at times.
 
 Several students expressed appreciation of my enthusiasm toward the subject. Some comments
-along these lines are given below (chosen with obvious bias for positive comments):
+along these lines are given below (selected with some obvious bias):
 
 > Love the Lectures, I never liked math in High school but your enthusiasm and knowledge
 > make this module enjoyable.
