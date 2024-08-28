@@ -11,7 +11,7 @@ Detailed contact information is below. I am generally not present on social medi
 X (née Twitter), Mastodon, and so on. The most reliable way to reach me is probably my
 main email - I try hard to reply promptly.
 
-- Email: [dario.trinchero@pm.me](mailto:dario.trinchero@pm.me)
-- Alternate email: [20854714@sun.ac.za](mailto:20854714@sun.ac.za)
+- University email: [dario@sun.ac.za](mailto:dario@sun.ac.za)
+- Personal email: [dario.trinchero@pm.me](mailto:dario.trinchero@pm.me)
 - LinkedIn: [dariotrinchero](https://linkedin.com/in/dariotrinchero)
 - GitHub: [dariotrinchero](https://github.com/dariotrinchero)
