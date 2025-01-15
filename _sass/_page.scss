@@ -16,6 +16,20 @@
   }
 }
 
+.page:has(.sidebar__right) {
+  @include breakpoint($large) {
+    float: inline-end;
+    width: calc(100% - #{$right-sidebar-width-narrow});
+    padding-inline-end: $right-sidebar-width-narrow;
+	padding-left: 0;
+  }
+
+  @include breakpoint($x-large) {
+    width: calc(100% - #{$right-sidebar-width});
+    padding-inline-end: $right-sidebar-width;
+  }
+}
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
@@ -72,9 +86,7 @@
     }
   }
 
-  a {
-    text-decoration: underline;
-
+  a:not(.btn) {
     &:hover {
       text-decoration: underline;
 

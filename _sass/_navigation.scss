@@ -372,8 +372,6 @@
 .toc {
   font-family: $sans-serif-narrow;
   color: $gray;
-  text-transform: uppercase;
-  letter-spacing: 1px;
   background-color: #fff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
@@ -383,6 +381,7 @@
     color: #fff;
     font-size: $type-size-6;
     background: $primary-color;
+	line-height: 1.4em;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
@@ -393,20 +392,22 @@
   padding: 0;
   width: 100%;
   list-style: none;
-  font-size: 0.8rem;
+  font-size: $type-size-5;
+
+  @include breakpoint($large) {
+    font-size: $type-size-6;
+  }
 
   a {
     display: block;
-    padding: 0.5rem 1rem;
-    color: $gray;
-    font-size: $type-size-7;
+    padding: 0.4rem 0.75rem;
+    color: $muted-text-color;
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #000;
-      background: $lighter-gray;
+      color: $text-color;
     }
   }
 
