@@ -8,7 +8,7 @@ date: 2018-02-01
 location: "Cape Town, South Africa"
 ---
 
-From 2018 to 2023 (inclusive), I worked as a teaching & learning assistant for various
+From 2018 to 2025 (inclusive), I worked as a teaching & learning assistant for various
 undergraduate mathematics modules at Stellenbosch University.
 
 <center>
@@ -17,12 +17,12 @@ undergraduate mathematics modules at Stellenbosch University.
 
 ## My philosophy on tutoring
 
-For all of my tutoring career (bar a short stint in 2017), I have been employed by my
-university. On moral grounds, I prefer not to offer private tutoring, even though it pays better.
-This is because South Africa is a country haunted by past injustice that has led to gross
-financial inequality; the people who most need help thus often cannot afford it privately.
-By tutoring through the university, I ensure that my assistance reaches a wider audience
-with no additional expenses to the students.
+For all of my tutoring career (bar a short stint with private tutoring in 2017), I have been
+employed by my university. On moral grounds, I prefer not to offer private tutoring, even
+though it pays better. This is because South Africa is a country haunted by past injustice
+that has led to gross financial inequality; the people who most need help thus often cannot
+afford it privately. By tutoring through the university, I ensure that my assistance reaches
+a wider audience with no additional expenses to the students.
 
 ## Modules taught
 
@@ -31,14 +31,15 @@ occasion in accordance with Stellenbosch University's naming conventions for cer
 collections of duties. To avoid ambiguity, I have simply listed the duties I managed for
 each module.
 
-| Module          | Level       | Module contents             | Years tutored | Description of duties                                                |
-| --------------- | ----------- | --------------------------- | ------------- | -------------------------------------------------------------------- |
-| Math 114        | First year  | Calculus, basic logic       | 2018          | Live tutoring: large groups, in team                                 |
-| Math 144        | First year  | Calculus, linear algebra    | 2018          | Live tutoring: large groups, in team                                 |
-| Math 214        | Second year | Calculus, linear algebra    | 2018-2023     | Live & online tutoring: large & small groups, solo; marking          |
-| Math 244        | Second year | Calculus, linear algebra    | 2018-2023     | Live & online tutoring: large & small groups, solo; ad hoc lecturing |
-| Math 378        | Third year  | Fredholm theory             | 2020          | Online tutoring: individuals, solo                                   |
-| Algebra 314     | Third year  | Ring & group theory         | 2021-2023     | Live tutoring: large groups, solo                                    |
+| Module       | Level       | Module contents             | Years tutored   | Description of duties                                                |
+| -------------| ----------- | --------------------------- | --------------- | -------------------------------------------------------------------- |
+| Math 114     | First year  | Calculus, basic logic       | 2018            | Live tutoring: large groups, in team                                 |
+| Math 144     | First year  | Calculus, linear algebra    | 2018            | Live tutoring: large groups, in team                                 |
+| Math 214     | Second year | Calculus, linear algebra    | 2018—2023, 2025 | Live & online tutoring: large & small groups, solo; marking          |
+| Math 244     | Second year | Calculus, linear algebra    | 2018—2023       | Live & online tutoring: large & small groups, solo; ad hoc lecturing |
+| Math 378     | Third year  | Fredholm theory             | 2020            | Online tutoring: individuals, solo                                   |
+| Algebra 314  | Third year  | Ring & group theory         | 2021—2023       | Live tutoring: large groups, solo                                    |
+| Analysis 365 | Third year  | Real analysis               | 2025            | Live tutoring: large groups, solo                                    |
 
 ### Explanation of module levels
 
