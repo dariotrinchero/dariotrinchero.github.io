@@ -3,6 +3,8 @@
 Source code for my personal website, hosting my CV, publications, slides for various talks
 I have given, and blog posts.
 
+Live at [https://dariotrinchero.github.io/](https://dariotrinchero.github.io/).
+
 Design template forked from [Academic Pages](https://github.com/academicpages/academicpages.github.io);
 see LICENSE.md.
 
